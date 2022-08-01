@@ -1,0 +1,23 @@
+questions/prompt,questions/correctAnswer,questions/category,questions/options
+Abstract classes are often instantiated.,false,JAVA,
+Empty strings are truthy values.,false,JAVASCRIPT,
+Strings are a defined data type.,false,C,
+C allows nested function definitions.,false,C,
+The Array.prototype.IndexOf() function has constant-time performance.,false,JAVASCRIPT,
+The Array.prototype.sort() function does not mutate the array it is called on.,false,JAVASCRIPT,
+C has automatic garbage cleanup.,false,C,
+Linked list nodes need to be contiguous in memory in order to operate effectively.,false,FUNDAMENTALS,
+The Error class represents conditions that should be caught or addressed by the application.,false,JAVA,
+The Exception class represents unexpected conditions that are reasonable enough for the application to catch,true,JAVA,
+A variable is a closer representation of a memory location compared to an actual value.,true,FUNDAMENTALS,
+Which visibility modifier allows access only to subclasses?,protected,JAVA,"protected, default, public, private, static"
+Which visibility modifier allows access to clients outside of a class?,public,JAVA,"protected, default, public, private, state"
+"During the first iteration of Selection Sort, the algorithm always finds the smallest value in the entire collection",true,FUNDAMENTALS,
+"During the first iteration of Insertion Sort, the algorithm always finds the smallest value in the entire collection",false,FUNDAMENTALS,
+Autoboxing yield a primitive type,false,JAVA,
+Unboxing yields an object wrapper class instantiation,false,JAVA,
+Which function creates a new process?,fork,C,"fork, exec, wait, pthread_create"
+Which function creates a new thread?,pthread_create,C,"fork, exec, wait, pthread_create"
+The sizeof operator should be used on types rather than variables,true,C,
+Which loop is generally preferred for iterating over a finite number of items?,for loop,FUNDAMENTALS,"for loop, while loop, do-while loop, none of the above"
+"Which loop is generally preferred for iterating until a condition is met (i.e., until a value is null)?",while loop,FUNDAMENTALS,"for loop, while loop, do-while loop, none of the above"

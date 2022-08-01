@@ -1,0 +1,16 @@
+questions/prompt,questions/correctAnswer,questions/category,questions/maxLength
+Which array-like data structure processes data according to LIFO?,Stack,FUNDAMENTALS,
+Which array-like data structure processes data according to FIFO?,Queue,FUNDAMENTALS,
+An ArrayList under the hood is typically what data structure?,Array,JAVA,
+What does NaN stand for?,NotANumber,JAVASCRIPT,
+What language combines JavaScript with stricter type declarations?,TypeScript,JAVASCRIPT,
+What popular JavaScript framework built by Facebook (now Meta) dominates front-end web development?,React,JAVASCRIPT,
+What adjective best describes how array index values are arranged in memory?,Contiguous,FUNDAMENTALS,
+What concept represents the relationship between a parent and child class?,Inheritance,JAVA,
+Which keyword indicates a class-wide method or variable rather than an instance method or variable?,static,JAVA,
+"In order to use Binary Search, all collection values must be:",sorted,FUNDAMENTALS,
+"In C, what data structure is most typically associated with double indirection (i.e., **)?",Array,C,
+What are some of the benefits of a linked list over an ArrayList?,"There are numerous reasons for choosing a linked list over an ArrayList. First, and perhaps most importantly, a linked list could be a better choice when we do not know how many values we need to store. If we were to use an ArrayList, which oftentimes uses an array under the hood, and the number of values reached the fixed length of the array, the ArrayList would have to create a new array that is twice as big as the old array and copy all values to the new array. Beyond the fact that numerous copy operations could be computationally expensive, the array length increases result in larger and larger sections of contiguous memory being occupied. On the other hand, linked list nodes do not have to be contiguous in memory in order for the linked list to operate effectively. Additionally, linked lists can be optimized to have more efficient insertion and deletion operations. For inserting into or removing from the middle of a linked list or the middle of an ArrayList, one must first traverse to the appropriate section in either data structure. However, inserting into or removing from the middle of an ArrayList could require reindexing all values following the insertion or deletion point. Conversely, for linked lists, after traversing to the appropriate spot for insertion or deletion, performing either operation simply requires reassigning pointers and is thus a constant-time runtime addition.",JAVA,1500
+What concept refers to the idea of an inner function having access to an outer function's scope or lexical environment?,closure,JAVASCRIPT,
+For which data type does the C-language compiler not enforce type checking?,void,C,
+What data type does the double bang (!!) operator yield?,Boolean,JAVASCRIPT,
